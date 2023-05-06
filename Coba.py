@@ -1,2 +1,3 @@
 print("Hello World")
-x = print("10*5)
+x = print(10*5)
+
