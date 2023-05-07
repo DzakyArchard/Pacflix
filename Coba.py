@@ -4,5 +4,3 @@ if user_do == "Y":
     print("Lakukan Registrasi")
 else:
     print("Lakukan Subscribe")
-
-bla bla
